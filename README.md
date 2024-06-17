@@ -41,6 +41,7 @@ To use this project:
 **Dependencies**:
 - `pandas`
 - `scikit-learn`
+- `notebook` (Jupyter)
 
 **How to Run**:
 
@@ -49,11 +50,11 @@ To use this project:
 git clone https://github.com/your-username/Flu-vaccine-predictor.git
 
 # Navigate to the project directory
-cd Flu-vaccine-predictor
+cd Flu_vaccine_predictor
 
 # Ensure the datasets are placed in the specified directory
 # Run the script
-python Flu-vaccine-predictor.ipynb
+jupyter notebook Flu_vaccine_predictor.ipynb
 ```
 
 This project provides a robust framework for predicting vaccine uptake probabilities using machine learning techniques, ensuring a comprehensive approach to data preprocessing, model training, and evaluation.

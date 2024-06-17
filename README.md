@@ -53,7 +53,7 @@ cd Flu-vaccine-predictor
 
 # Ensure the datasets are placed in the specified directory
 # Run the script
-python vax_predictor.py
+python Flu-vaccine-predictor.ipynb
 ```
 
 This project provides a robust framework for predicting vaccine uptake probabilities using machine learning techniques, ensuring a comprehensive approach to data preprocessing, model training, and evaluation.

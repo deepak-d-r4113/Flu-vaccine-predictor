@@ -46,10 +46,10 @@ To use this project:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/vax-predictor.git
+git clone https://github.com/your-username/Flu-vaccine-predictor.git
 
 # Navigate to the project directory
-cd vax-predictor
+cd Flu-vaccine-predictor
 
 # Ensure the datasets are placed in the specified directory
 # Run the script
